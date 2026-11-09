@@ -1,0 +1,6 @@
+interface:
+  display_name: "三九进化·通用版"
+  short_description: "从真实项目反馈积累个人经验，保留详细资料与判断理由，支持持续修改和任务接续"
+  default_prompt: "请用 $sanjiu-evolve-general 处理当前项目，核对需求并保留已授权的资料与反馈依据。"
+policy:
+  allow_implicit_invocation: true
