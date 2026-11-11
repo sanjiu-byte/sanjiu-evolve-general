@@ -18,6 +18,8 @@
 
 手动导入可用 [完整 v0.1.1 ZIP](https://github.com/sanjiu-byte/sanjiu-evolve-general/archive/refs/tags/v0.1.1.zip)，保留整个文件夹结构。安装后在明确使用本方法的聊天中说“更新 sanjiu-evolve-general”即可启动 [升级流程](升级任务.md)；实际可完成范围取决于平台读写与安装能力，不是后台自动更新。
 
+Gitee ZIP 可能需要登录；有 Git 的 AI 可自动从 `https://gitee.com/the-third-nine/sanjiu-evolve-general.git` 获取完整包。无网络时，把完整离线 ZIP 和安装 MD 一起发给 AI。
+
 ## 它如何进化
 
 | 实际发生的事 | AI 应完成的动作 | 为什么 |
