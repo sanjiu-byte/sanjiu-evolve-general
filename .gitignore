@@ -5,6 +5,8 @@
 !README.md
 !SKILL.md
 !VERSION
+!PACKAGE.json
+!安装.md
 !LICENSE
 !CHECKS.md
 !员工上手指南.md
@@ -14,6 +16,7 @@
 !agents/openai.yaml
 !references/
 !references/首次启用.md
+!references/安装确认.md
 !references/多平台接入.md
 !references/资料保存.md
 !references/经验与接续.md
@@ -23,6 +26,8 @@
 !references/局部修改检查.md
 !scripts/
 !scripts/edit_guard.py
+!scripts/verify_installation.py
+!tests/test_verify_installation.py
 !tests/
 !tests/test_edit_guard.py
 !tests/scenarios.json

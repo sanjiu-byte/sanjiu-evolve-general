@@ -1,0 +1,33 @@
+{
+  "name": "sanjiu-evolve-general",
+  "version": "0.1.1",
+  "files": {
+    ".gitattributes": "9a5b3e8c93ebcd35a580f2c2cf3b51cad2f4e5c1514a6984f454f36b355dacd8",
+    ".gitignore": "d5e94b43a72fb886fbdfa027dab83dbec08fcf5d0ccc9a4fca0d29c4403ee5aa",
+    "CHECKS.md": "b85075f32728dcbfb3212dd9735329797a3ca33bcef23e5f71824b3babe05d01",
+    "LICENSE": "81bc3ba5c30f4fb5760770a1bfa2a89457f71e81bde1e235b0e43ec77ee62167",
+    "README.md": "feaee321a7c21e4f03ffbbf5b93078cfba49217b481cbc845e40c5743b21f918",
+    "SKILL.md": "623641dd6ff8b57925bdbbac206357ffcafecb77239dc513d4b0ea6fb42e1da2",
+    "VERSION": "80447316529fc62014fbaa047fb67c51ac30e32830cda370405349d8d66d196c",
+    "agents/openai.yaml": "8627428a2dc63cd0e6be651d67006fbfda971c433e7d69799f7af1e2abcdc038",
+    "references/任务边界与案例.md": "d2179474fff212ff2fbe4846807b285e9d6c7ca84e7d9cfe9987d44dba1589e6",
+    "references/多平台接入.md": "cdd270cdaf149e82fa8fc886d5f93b54d4983eefc1d15dc095f87c11ea57bc8c",
+    "references/安装确认.md": "815fcde0405cb6686ead07be9068f7f45d7d6cfb7dafd4d968489218f8a43f12",
+    "references/局部修改检查.md": "0fd247ae26e762d9dd85f463b268fb32fa8955184fd43afe8fdbffdad2b55903",
+    "references/经验与接续.md": "2e7559bda74b6c9704c3965738d10477c3df722097f16072abe7a3fa977e41d0",
+    "references/资料保存.md": "7bb8c0d2a38578ccd2efa3af3741cd586a1649def8fa535692a190994330cd3e",
+    "references/进化验证.md": "c7fa795b53dda95374478413aae9f5c9668e5c82fedc12bd69863aa8dcf278a8",
+    "references/项目记录模板.md": "435989f0743a9274171d9ca77470ac3c137a2b35ab09992479108f78a9c38147",
+    "references/首次启用.md": "0ab05b2eb831ee7d8eac5bd849bae50e704294e2b1086db93196d8a5525f3d8b",
+    "scripts/edit_guard.py": "eae36598131294623fc5635d0b8b91e4e5f65fb21b8cffd215e21b52c6ae5f3c",
+    "scripts/verify_installation.py": "49235d2d2745303e6e75e6b516e853a419dc085d5c81a12ebb667357588e809f",
+    "tests/README.md": "d7657a7844d0f15058f68bd8f3e18e3cd6d1d2fb11170de2870b86956aacd0f7",
+    "tests/scenarios.json": "db5823e27867c635b24e2f4b7bd4625ee70ee335be8ff29bcf7ab70335d97d84",
+    "tests/test_edit_guard.py": "ea3156430ccb8b8421b654104a48ea56a39d9f8201ef1c7657cee1d97b997946",
+    "tests/test_verify_installation.py": "362db9b275a17d3840e6217e018a42cdfd2dde9e8f5e431ae5377c000dd01b97",
+    "升级任务.md": "efa63e8bc9a7e6cf7a2baa47a8048acc2a291250bdc95d62937c40d1e043a219",
+    "反馈回收任务.md": "79f827bc00aa86acc3837f81376493fd806804a51011372dfa2a8dc54dabc229",
+    "员工上手指南.md": "5635bcf244f2f0ea3bbec078066d1d47e4a1e10b34122f2f06b907d890281218",
+    "安装.md": "d04d0401fd96e15826b91885aa4efb9933bdeb96b2a54fedffa34f1631b00137"
+  }
+}
