@@ -1,16 +1,16 @@
 {
   "name": "sanjiu-evolve-general",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": {
     ".gitattributes": "9a5b3e8c93ebcd35a580f2c2cf3b51cad2f4e5c1514a6984f454f36b355dacd8",
     ".gitignore": "d5e94b43a72fb886fbdfa027dab83dbec08fcf5d0ccc9a4fca0d29c4403ee5aa",
-    "CHECKS.md": "5184ee24c942afb3f4e24665c019b79c3758459c690ba64563028c3df6e5186e",
+    "CHECKS.md": "a1d913284b8f7d633c75bc11138b5e51239273c76eb0c7e4cbe33cf5744342ee",
     "LICENSE": "81bc3ba5c30f4fb5760770a1bfa2a89457f71e81bde1e235b0e43ec77ee62167",
-    "README.md": "5c0dfa57edbd3c836087d47cde33544f71fad914f8284804a8c2d73809775430",
-    "SKILL.md": "623641dd6ff8b57925bdbbac206357ffcafecb77239dc513d4b0ea6fb42e1da2",
-    "VERSION": "80447316529fc62014fbaa047fb67c51ac30e32830cda370405349d8d66d196c",
+    "README.md": "c8ff601965b235de293723c6dac6acf8ab875546916ba2a7e4d65a616ce63af4",
+    "SKILL.md": "47986af5f64d20d60c360d4321905d967bb03d2f597cfd89e5d205b317f59943",
+    "VERSION": "297b50f08386d3521f8fdaf2f78eb8d9d0acdf452d2e61596905fba37208c792",
     "agents/openai.yaml": "8627428a2dc63cd0e6be651d67006fbfda971c433e7d69799f7af1e2abcdc038",
-    "references/任务边界与案例.md": "d2179474fff212ff2fbe4846807b285e9d6c7ca84e7d9cfe9987d44dba1589e6",
+    "references/任务边界与案例.md": "bb680de050b8796dbbc6ed4f0c6f9e761474c2eaa0eeb03db73ed71119957a4d",
     "references/多平台接入.md": "cdd270cdaf149e82fa8fc886d5f93b54d4983eefc1d15dc095f87c11ea57bc8c",
     "references/安装确认.md": "afedb9a5e3fc23cd90eeda20c131ca3a8ddb3e0b15878953c3b564078700c6ef",
     "references/局部修改检查.md": "0fd247ae26e762d9dd85f463b268fb32fa8955184fd43afe8fdbffdad2b55903",
@@ -25,9 +25,9 @@
     "tests/scenarios.json": "db5823e27867c635b24e2f4b7bd4625ee70ee335be8ff29bcf7ab70335d97d84",
     "tests/test_edit_guard.py": "ea3156430ccb8b8421b654104a48ea56a39d9f8201ef1c7657cee1d97b997946",
     "tests/test_verify_installation.py": "362db9b275a17d3840e6217e018a42cdfd2dde9e8f5e431ae5377c000dd01b97",
-    "升级任务.md": "efa63e8bc9a7e6cf7a2baa47a8048acc2a291250bdc95d62937c40d1e043a219",
+    "升级任务.md": "e0eb94218ef5eedd34953e01f38df8c1296fed186ff8acec50fd81a5e0e7f9a3",
     "反馈回收任务.md": "79f827bc00aa86acc3837f81376493fd806804a51011372dfa2a8dc54dabc229",
-    "员工上手指南.md": "5635bcf244f2f0ea3bbec078066d1d47e4a1e10b34122f2f06b907d890281218",
-    "安装.md": "8eb72eeb829c050efcddf3dda3a81093c80d4911061ff91630ca70565cf2b36d"
+    "员工上手指南.md": "cfc47d7d25e4009fa7ce8ca08adf77979f8e2ba4c00c7cc933894e010f863788",
+    "安装.md": "d3140feadb5f32557909dcb9a7cdd8db1ef9d94b8e5d87193ca81450d3620a37"
   }
 }

@@ -1,6 +1,6 @@
 # sanjiu-evolve-general · 三九进化通用版
 
-版本：0.1.1。
+版本：0.1.2。
 
 下载来源：[Gitee](https://gitee.com/the-third-nine/sanjiu-evolve-general) · [GitHub](https://github.com/sanjiu-byte/sanjiu-evolve-general)。实际可用性取决于当前网络及宿主能力。
 
@@ -8,17 +8,11 @@
 
 ## 直接发给 AI
 
-最省事：把 [安装.md](安装.md) 发给 AI。它应实际安装、自查并主动告诉你能否开始。国内环境先试 [Gitee 完整包](https://gitee.com/the-third-nine/sanjiu-evolve-general/repository/archive/main.zip)，GitHub 备用；两端不可达可发送完整离线 ZIP。文件检查、当前启用、新聊天自动启用和资料保存分别报告。
+把收到的完整 ZIP 直接发给平时工作的 AI。等它告诉你“现在可以开始项目”，就发需求或项目资料。需要授权或手动导入时，按它给出的那一步操作。
 
-```text
-请从 https://github.com/sanjiu-byte/sanjiu-evolve-general（备用镜像 https://gitee.com/the-third-nine/sanjiu-evolve-general）安装并配置 sanjiu-evolve-general，作为我以后新项目的进化方法，保存相关对话原文、各版成果、反馈理由和附件到我自己的位置。已有项目先沿用原方法，发现旧安装要原位更新、保留经验，检查不要重复启用；缺少保存位置时简单问我一次，并实际检查安装和保存结果。
-```
+还没有包时可取 [GitHub 版本 ZIP](https://github.com/sanjiu-byte/sanjiu-evolve-general/archive/refs/tags/v0.1.2.zip) 或 [Gitee 版本 ZIP](https://gitee.com/the-third-nine/sanjiu-evolve-general/repository/archive/v0.1.2.zip)。Gitee 下载可能需要登录。
 
-员工直接把这句话交给 AI。安装、识别能力、配置入口和检查由 AI 完成。具备本机读写与执行能力时可直接落地；只有聊天或附件能力时，由 AI 准备可导出文件并说明必要下一步，不能说已经写入电脑。详见 [员工上手指南](员工上手指南.md)。
-
-手动导入可用 [完整 v0.1.1 ZIP](https://github.com/sanjiu-byte/sanjiu-evolve-general/archive/refs/tags/v0.1.1.zip)，保留整个文件夹结构。安装后在明确使用本方法的聊天中说“更新 sanjiu-evolve-general”即可启动 [升级流程](升级任务.md)；实际可完成范围取决于平台读写与安装能力，不是后台自动更新。
-
-Gitee ZIP 可能需要登录；有 Git 的 AI 可自动从 `https://gitee.com/the-third-nine/sanjiu-evolve-general.git` 获取完整包。无网络时，把完整离线 ZIP 和安装 MD 一起发给 AI。
+给收到安装包的 AI：用户交付此包用于安装或更新时，请找到与本 README 同目录的 [安装说明](安装.md)，直接使用包内文件完成安装和自检。已有安装按 [升级任务](升级任务.md) 原位更新。
 
 ## 它如何进化
 
